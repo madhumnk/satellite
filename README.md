@@ -16,6 +16,10 @@ A real-time satellite tracking application built using **Python**, **Streamlit**
 - [Folium](https://python-visualization.github.io/folium/) - Interactive mapping
 - [CelesTrak](https://celestrak.org/) - Source for TLE data
 
+## Install Dependencies 
+
+- pip install streamlit skyfield requests folium streamlit-folium
+
 ## 💻 How to Run
 
 #. Clone the repo:
